@@ -33,13 +33,13 @@
 namespace Zotlabs\Widget;
 // namespace Code\Widget;
 
-
+    
 
 // "class Examplewidget" is used for Hubzilla
 // "class Examplewidget implements WidgetInterface" is used for Streams, Raconteur, and Catalyst.
 // "class Examplewidget implements WidgetInterface" is used for Neuhub if you uploaded \Zotlabs\Widget\WidgetInterface.php
 // Uncomment the correct line below depending on if you use Streams or Hubzilla
-
+  
 // class Examplewidget {
 // class Magicsignon_text_magic implements WidgetInterface {
 class Magicsignon_text_magic {
